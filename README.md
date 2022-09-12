@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AlejandroV01
+- 👋 Hi, I’m Alejandro Vera
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript!
+- 🌱 I’m currently expanding my React.js skills
 - 💞️ I’m looking to collaborate on projects!
 - 📫 How to reach me: alexvera0109@gmail.com
 
