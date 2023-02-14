@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a custom component library at my Internship and a game deal app<br>👨‍💻 I’m looking to collaborate on any react project!<br>🌱 I’m currently utilizing React, TypeScript, StoryBook, API's, and much more!
+🔭 I’m currently working an extensive game deal app and solving leetcodes!<br>👨‍💻 I’m looking to collaborate on any react project!<br>🌱 I’m currently utilizing React, TypeScript, StoryBook, API's, and much more!
 
 
 ## 🌐 Socials:
