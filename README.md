@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working as a Web Development Project Lead @ INIT FIU!<br>👨‍💻 I’m looking to collaborate on any project, visit my website to shoot me a message via the Contact section! Or you can send me an email which is on the left side of this GitHub screen!<br>🖥️ I’m currently advancing my skills in React, Express, Node, and much more<br>🎓 Florida International University | Computer Science 2024!
+Hi there! I'm Alejandro, a senior student at Florida International University pursing a Bachelor degree in Computer Science (Fall '24). I am extremely passionate about Software Engineering and a recent Amazon SDE intern. Looking forward to the future!
+
+Are you curious to learn more?
+Please feel free to visit my personal custom portfolio website at:
+AlejandroVera.com 
+(Made in React.js and Next.js for anyone intrigued)
+
+My Skills:
+Languages: JavaScript, TypeScript, Python, Java, HTML/CSS, SQL
+Technology: React.js, Next.js, Express.js, MongoDB, Node.js, Tailwind, Git, Redux, Storybook, Styled-Components, MUI, Firebase, Figma, JWT, PostgreSQL, MySQL, Supabase, and much more!
 
 
 ## 🌐 Socials:
